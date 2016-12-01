@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AfricaCareerGuide</string>
+    <string name="app_title">Africa Career Guide</string>
+    <string name="start_button">Begin</string>
+    <string name="country_select">Please select a country</string>
+    <string name="logo_content_description">Logo of App</string>
+    <string name="cluser_name_text">Cluster name goes here</string>
+    <string name="universities_name_text">Universities name here</string>
+    <string name="course_title">Course name goes here</string>
+    <string name="universities_heading">Universities that offer this course</string>
+
+    <string-array name="cluster_name">
+        <item>Agriculture, Food, and Natural Resources</item>
+        <item>Architecture and Construction</item>
+        <item>Arts, Audio/Video Technology and Communications</item>
+        <item>Business Management and Administration</item>
+        <item>Education and Training</item>
+        <item>Finance</item>
+        <item>Government and Public Administration</item>
+        <item>Health Science</item>
+        <item>Hospitality and Tourism</item>
+        <item>Human Services</item>
+        <item>Information Technology</item>
+        <item>Law, Public Safety, Corrections and Security</item>
+        <item>Manufacturing</item>
+        <item>Marketing, Sales and Service</item>
+        <item>Science, Technology, Engineering, and Mathematics</item>
+        <item>Transportation, Distribution, and Logistics</item>
+    </string-array>
+
+</resources>
